@@ -1,0 +1,33 @@
+.main{
+   background-color: rgba(255, 115, 0, 0.574);
+   height: 100vh;
+   display: flex;
+}
+
+.formDiv{
+   position: relative;
+   top: 40%;
+   left: 40%;
+   height:300px;
+   width: 500px;
+   background-color: aliceblue;
+   flex-direction: column;
+   display: flex;
+}
+
+form{
+   position: relative;             
+   top: 30%;
+   left: 20%;
+  
+}
+
+input{
+   height: 50px;
+}
+
+button{
+   height:50px;
+   width: 100px;
+   background-color: rgb(15, 125, 215);
+}
